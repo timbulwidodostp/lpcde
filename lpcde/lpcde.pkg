@@ -1,4 +1,7 @@
-D 'cvmtest': K-sample Cramer-von Mises equality-of-distributions test Use cvmtest With STATA 19
+D 'lpcde': Local polynomial conditional density estimation and inference Use lpcde With STATA 19
 D
-F cvmtest.ado
-F cvmtest.sthlp
+F lpbwcde.ado
+F lpbwcde.sthlp
+F lpcde.ado
+F lpcde.mlib
+F lpcde.sthlp
