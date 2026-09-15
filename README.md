@@ -1,6 +1,8 @@
 # lpcde
 Local polynomial conditional density estimation and inference Use lpcde With STATA 19
 
+https://www.youtube.com/watch?v=x-eSc4jXHCA
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
